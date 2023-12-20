@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Rohit Karki</h1>
 <h3 align="center">A passionate Java Full Stack developer from India</h3>
 
-<p align="left"> <img src="" alt="rohit_karki" /> </p>
+
+<p align="left"> <img src="https://drive.google.com/file/d/18iWva308v-s4GTWUWunwOg6xqY6Q4J69/view?usp=sharing" alt="" /> </p>
 
 - 👨‍💻 All of my projects are available at [Rohit Karki Portfolio](https://xyz.app/)
 
